@@ -1,0 +1,6 @@
+Flask==2.0.1
+opencv-python==4.5.3.56
+pytesseract==0.3.8
+PyMuPDF==1.18.17
+Pillow==8.3.2
+requests==2.26.0
